@@ -26,6 +26,7 @@ group :development do
   gem 'hub', :require=>nil
   gem 'quiet_assets'
   gem 'rails_layout'
+  gem 'mina'
 end
 group :production do
   gem 'unicorn'
