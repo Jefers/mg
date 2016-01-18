@@ -84,3 +84,6 @@ pickle-email-*.html
 *~
 vendor/ruby
 vendor/ruby
+
+# gem dependency information
+gemdepfile.txt

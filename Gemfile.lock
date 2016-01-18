@@ -224,6 +224,7 @@ DEPENDENCIES
   hub
   jbuilder (~> 2.0)
   jquery-rails
+  kgio (= 2.10.0)
   mina
   pg
   pundit
